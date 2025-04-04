@@ -1,2 +1,5 @@
 let car;
-console.log( typeof(car))
+console.log( typeof(car));
+
+let name ="";
+console.log(typeof(name))
